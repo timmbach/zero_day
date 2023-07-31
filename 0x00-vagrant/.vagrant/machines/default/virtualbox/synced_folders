@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/OWNER/Desktop/zero_day/0x00-vagrant","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
